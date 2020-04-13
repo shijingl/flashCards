@@ -5,3 +5,6 @@ The app will allow users to create different categories of flashcards called "de
 # How to Install
 `npm install` </br>
 `npm start`
+
+# Tested Mobiles
+This app is well tested on Android 10.0 (Pixel 3).
